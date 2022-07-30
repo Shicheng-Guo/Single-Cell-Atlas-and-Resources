@@ -1,2 +1,1 @@
-# Single-Cell-Atlas-and-Resources
-Single-Cell-Atlas-and-Resources (SCAR)
+# Single Cell Atlas and Resources (SCAR) Notebook
